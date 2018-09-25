@@ -1,0 +1,11 @@
+{
+  "name": "code-lifter",
+  "version": "0.0.1",
+  "description": "Takes a code library and renames and resorts its structure using a synonyms library to maintain basic code readability while masking the fact that the code is still functionaly identical.  yes this is a teribrle thing to make, but came up as a bad joke and well... got the itch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Cassil",
+  "license": "BSD-3-Clause"
+}
